@@ -1,2 +1,2 @@
 # HaoBlox.io
-HaobloxGame
+https://haoblox.edgeone.dev/
